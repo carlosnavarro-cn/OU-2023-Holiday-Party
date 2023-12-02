@@ -2,8 +2,6 @@
 
 <iframe
 	src="https://radames-real-time-latent-consistency-model.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
+	width="100%" height="100%" frameborder="0" scrolling="no" style="width: 645.333px; height: 645.333px;" class=""
 ></iframe>
 
