@@ -1,4 +1,4 @@
-#🪩Go-Disco🕺
+#Go-Disco
 
 
 <iframe
